@@ -1,0 +1,5 @@
+age=int(input("ENTER THE AGE OF APPLICANT "))
+if age>=18:
+    print("YOU ARE ELIGIBLE FOR VACCINATION")
+else:
+    print("YOU ARE NOT ELIGIBLE FOR VACCINATION")

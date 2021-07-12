@@ -1,0 +1,7 @@
+a=int(input('enter the mark of 1st sub '))
+b=int(input('enter the mark of 2nd sub '))
+c=int(input('enter the mark of 3rd sub '))
+d=int(input('enter the mark of 4th sub '))
+e=int(input('enter the mark of 5th sub '))
+print("total mark is",a+b+c+d+e)
+print("average is",(a+b+c+d+e)/5)
